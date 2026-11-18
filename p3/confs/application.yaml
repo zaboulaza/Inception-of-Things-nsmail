@@ -8,7 +8,7 @@ spec:
   source:
     repoURL: https://github.com/zaboulaza/Inception-of-Things-nsmail.git
     targetRevision: main
-    path: p3/app
+    path: p3/confs/app
   destination:
     server: https://kubernetes.default.svc
     namespace: dev
